@@ -1,1 +1,5 @@
-11010
+YES
+NO
+NO
+YES
+YES
