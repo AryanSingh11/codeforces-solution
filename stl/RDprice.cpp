@@ -24,8 +24,7 @@ int main(){
         int raisedtopower = pow(10,logged);
         // cout<<raisedtopower<<endl;
         // cout<<endl;
-        // int ans = static_cast<int>(x) - raisedtopower;
-        int ans = static_cast< - raisedtopower;
+        int ans = static_cast<int>(x) - raisedtopower;
         cout<<ans<<endl;
 
     }
