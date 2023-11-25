@@ -1,11 +1,6 @@
-yes
+YES
+YES
 NO
+YES
+YES
 NO
-yes
-yes
-NO
-NO
-yes
-yes
-NO
-yes
