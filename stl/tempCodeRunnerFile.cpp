@@ -1,4 +1,2 @@
-for(int i=0;i<n;i++){
-        //     cout<<v[i];
-        // }
-        // cout<<endl;
+ cout<<rightbread<<endl;
+    cout<<rightonion<<endl;
